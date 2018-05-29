@@ -175,10 +175,10 @@ namespace CheckoutShoppingCart_API.Services
 
 
         /* Business logic to change quantity in Cart */
-        public List<Product> ChangeQuantity(List<Product> cartItems)
+        public List<Product> ChangeQuantity(List<Product> Items, List<Product> cartItems)
         {
             List<Product> productsList = new List<Product>();
-            foreach (var item in cartItems)
+            foreach (var item in Items)
             {
                 cartItems.Where(s => s.ProductID == item.ProductID).First().Quantity = item.Quantity;
 
