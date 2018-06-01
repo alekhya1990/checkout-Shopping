@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckoutShoppingCart_API", "CheckoutShoppingCart_API\CheckoutShoppingCart_API.csproj", "{A8B60980-B467-4F1A-8B83-A64EEB0785DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckShoppingCart_API_UnitTest", "CheckShoppingCart_API_UnitTest\CheckShoppingCart_API_UnitTest.csproj", "{C7E4292F-603A-4FFA-9FD4-9A3E4D4130BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A8B60980-B467-4F1A-8B83-A64EEB0785DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8B60980-B467-4F1A-8B83-A64EEB0785DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8B60980-B467-4F1A-8B83-A64EEB0785DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E4292F-603A-4FFA-9FD4-9A3E4D4130BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E4292F-603A-4FFA-9FD4-9A3E4D4130BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E4292F-603A-4FFA-9FD4-9A3E4D4130BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E4292F-603A-4FFA-9FD4-9A3E4D4130BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

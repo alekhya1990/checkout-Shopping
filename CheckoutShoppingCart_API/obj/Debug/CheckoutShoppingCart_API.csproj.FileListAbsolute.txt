@@ -91,6 +91,7 @@ C:\Alekhya\Git\NewRepo\CheckoutShoppingCart_API\CheckoutShoppingCart_API\bin\Sys
 C:\Alekhya\Git\NewRepo\CheckoutShoppingCart_API\CheckoutShoppingCart_API\bin\System.Web.Http.WebHost.xml
 C:\Alekhya\Git\NewRepo\CheckoutShoppingCart_API\CheckoutShoppingCart_API\bin\System.Web.Optimization.xml
 C:\Alekhya\Git\NewRepo\CheckoutShoppingCart_API\CheckoutShoppingCart_API\bin\System.Web.Providers.xml
-C:\Alekhya\Git\NewRepo\CheckoutShoppingCart_API\CheckoutShoppingCart_API\obj\Debug\CheckoutShoppingCart_API.csprojResolveAssemblyReference.cache
 C:\Alekhya\Git\NewRepo\CheckoutShoppingCart_API\CheckoutShoppingCart_API\obj\Debug\CheckoutShoppingCart_API.dll
 C:\Alekhya\Git\NewRepo\CheckoutShoppingCart_API\CheckoutShoppingCart_API\obj\Debug\CheckoutShoppingCart_API.pdb
+C:\Alekhya\Git\NewRepo\CheckoutShoppingCart_API\CheckoutShoppingCart_API\bin\CheckoutShoppingCart_API.dll.CodeAnalysisLog.xml
+C:\Alekhya\Git\NewRepo\CheckoutShoppingCart_API\CheckoutShoppingCart_API\bin\CheckoutShoppingCart_API.dll.lastcodeanalysissucceeded
