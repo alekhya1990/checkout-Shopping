@@ -34,7 +34,7 @@ Below is the step by step usage of the application
 7. User is allowed to change the quatity of each item by updating the number in the Quatity box and click 'Save Quantity' button which update the Total Items and Total Price in the invoice section
 8. User is also allow to Clear the complete cart list by click on 'Clear Items' button and indivduall remove the items by selecting each item and click on 'Remove Items' button after selection
 9. Once the complete list is finalised in the Cart section, user can proceed with Checkout/Purchase by clicking on 'Checkout' button (This button doesn't have built in functionality in this project, but a provision to extend the funationality is still available)
-10. User ca also view the list of previous purchases on orders in the Order page. Navigate to this page by clicking on 'Order' menu item.
+10. User can also view the list of previous purchases and orders in the Order page. Navigate to this page by clicking on 'Order' menu item.
 
 
 
